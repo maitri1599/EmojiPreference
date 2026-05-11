@@ -1,0 +1,12 @@
+ChatbotAPI/bin/
+ChatbotAPI/obj/
+ChatbotAPI/*.user
+ChatbotAPI/.vs/
+ChatbotAPI.Tests/bin/
+ChatbotAPI.Tests/obj/
+ChatbotAPI/appsettings.Development.json
+chatbot-frontend/node_modules/
+chatbot-frontend/dist/
+chatbot-frontend/.env
+.DS_Store
+Thumbs.db

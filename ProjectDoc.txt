@@ -1,0 +1,50 @@
+React Frontend
+
+React 
+Functional Components
+Hooks 
+Axios API calls
+LocalStorage
+Component-based architecture
+Form validations
+Loading indicators
+Responsive UI
+State management
+Error handling
+Chat history persistence
+React Testing Library
+
+.NET Backend API
+
+ASP.NET Core Web API (.NET 8)
+Layered architecture
+Controllers
+Services
+Repositories
+DTOs
+Entity Framework Core
+SQL Server Express
+Data Annotations validation
+Exception middleware
+Logging using ILogger
+Dependency Injection
+Async/Await
+REST APIs
+Repository pattern
+Atomic database transactions
+xUnit testing
+Moq
+EF Core InMemory testing
+
+Mock LLM / Chatbot Logic
+
+Static response generation
+Keyword-based category detection
+Emoji frequency logic
+Response formatting
+Mock AI simulation
+Conditional response mapping
+Dynamic emoji injection
+Optional OpenAI integration support
+Response testing
+Edge case handling

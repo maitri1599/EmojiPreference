@@ -1,0 +1,40 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #e8eaf6;
+  color: #111;
+  font-family: system-ui, sans-serif;
+  font-size: 14px;
+  height: 100dvh;
+  overflow: hidden;
+}
+
+#root {
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100dvh;
+  max-width: 700px;
+  margin: 0 auto;
+  width: 100%;
+  background: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.12);
+}
+
+.apiError {
+  background: #fff0f0;
+  color: #c00;
+  font-size: 13px;
+  padding: 6px 12px;
+  border-top: 1px solid #f5c6c6;
+  flex-shrink: 0;
+}
